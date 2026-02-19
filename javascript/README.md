@@ -1,0 +1,1 @@
+On JavaScript Language, new versions, frameworks, and how they present themselves in the bootcamp.

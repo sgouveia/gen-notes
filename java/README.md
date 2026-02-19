@@ -1,0 +1,1 @@
+On Java Language, new versions, frameworks, and how they present themselves in the bootcamp

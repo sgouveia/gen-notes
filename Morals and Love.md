@@ -1,0 +1,1 @@
+*The great secret of morals is love; or a going out of our own nature, and an identification of ourselves with the beautiful which exists in thought, action, or person, not our own. A man, to be greatly good, must imagine intensely and comprehensively; he must put himself in the place of another and of many others; the pains and pleasures of his species, must become his own.*

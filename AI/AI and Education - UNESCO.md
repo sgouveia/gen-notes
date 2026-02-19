@@ -1,0 +1,5 @@
+# AI and the Future of Education
+
+_“Everything that is possible demands to exist,”_ Leibniz wrote, hinting at a world where potential seeks actualization almost by necessity. In the realm of AI and education, we feel this pressure daily — a sense that once something becomes technically feasible, it will eventually become reality. This is echoed, albeit darkly, in _The Matrix_, when Agent Smith tells Neo: _“You hear that, Mr. Anderson? That is the sound of inevitability.”_ But the film doesn’t end there. Neo doesn't escape inevitability by resisting it — he learns to understand it, to see the system for what it is, and in doing so, reclaims agency from within.
+
+This is the crux of our moment. The emergence of AI in education isn’t something we can veto through nostalgia or fear. But neither is it something we must accept blindly. Possibility _does_ demand to exist — but we decide its form. Like Neo, our role is not to reject the Matrix, but to understand and reshape it. Social Shaping of Technology reminds us that every tool is negotiable, every system influenceable. Our task is not to stop the evolution — but to humanize it.
