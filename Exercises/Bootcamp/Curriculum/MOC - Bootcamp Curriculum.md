@@ -216,6 +216,6 @@ Mercado em crescimento, necessidade de programadores qualificados.
 **Metodologia:** Educação baseada em problemas  
 **Foco:** Fundamentos + Adaptação
 
-**Relacionado:** [[MOC: Bootcamp Evaluation]] | [[MOC: Learning Design]]
+**Relacionado:** [[MOC - Bootcamp Evaluation]]
 
 **Fonte original:** [[bootcamp/plano-curricular]]

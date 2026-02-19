@@ -39,7 +39,7 @@ Para análise completa destes temas, consultar:
 
 ## Fonte Original
 
-[[Cause and Effect First Notes]] — Conversa completa (398 linhas) que originou todas estas notas.
+Cause and Effect First Notes — Conversa completa (398 linhas) que originou todas estas notas.
 
 ---
 

@@ -89,6 +89,6 @@ No bootcamp, isto significa tratar "trust the process" não como um mantra mas c
 - [[Zarathustra on Memory and Reasoning]]
 - [[Causa e Efeito]] (versão resumida em português)
 
-**Origem:** [[Cause and Effect First Notes]] (conversa original completa)
+**Origem:** Cause and Effect First Notes (conversa original completa)
 
 **Keywords:** #empathy #education #teaching #ai-limitations #pedagogy #bootcamp #cause-and-effect #love

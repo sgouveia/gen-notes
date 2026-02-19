@@ -145,8 +145,6 @@ Template para novos exercícios:
 
 ## Ligações com Outros MOCs
 
-- [[MOC: AI Workflows by Domain]] - Aplicações práticas por indústria
-- [[MOC: Learning Design]] - Como estruturar o ensino destes exercícios
 - [[AI courses]] - Cursos completos que usam estes exercícios
 
 ---

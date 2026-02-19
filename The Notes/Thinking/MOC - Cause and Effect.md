@@ -13,7 +13,7 @@ Conteúdo originado de uma conversa exploratória sobre:
 - O contexto específico do bootcamp [[Code For All]]
 - Reflexões filosóficas (Zarathustra, abstrações)
 
-**Fonte original:** [[Cause and Effect First Notes]] (ficheiro de 398 linhas — conversa completa)
+**Fonte original:** Cause and Effect First Notes (ficheiro de 398 linhas — conversa completa)
 
 ## Notas Atómicas
 
@@ -83,10 +83,9 @@ Humanos também usam heurísticas:
 
 ## Ligações com Outros MOCs
 
-- [[MOC: Learning Design]] — Como aplicar estes princípios ao desenho pedagógico
-- [[MOC: Exercise Bank]] — Exercícios práticos de empatia e compreensão causal
-- [[bootcamp/evaluation]] — Avaliação no contexto do bootcamp mencionado
-- [[education/CPFO]] — Curso remoto (contexto relacionado)
+- [[MOC - Exercise Bank]] — Exercícios práticos de empatia e compreensão causal
+- [[MOC - Bootcamp Evaluation]] — Avaliação no contexto do bootcamp mencionado
+- [[CPFO]] — Curso remoto (contexto relacionado)
 
 ---
 

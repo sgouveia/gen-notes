@@ -98,4 +98,4 @@ No bootcamp, isto significa promover uma cultura onde **vulnerabilidade é valor
 - [[Teaching as Love]]
 - [[Causa e Efeito]]
 
-**Origem:** [[Cause and Effect First Notes]] (conversa original completa)
+**Origem:** Cause and Effect First Notes (conversa original completa)

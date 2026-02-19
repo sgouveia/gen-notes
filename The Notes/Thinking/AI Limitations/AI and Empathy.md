@@ -64,4 +64,4 @@ Repetir frases pode tornar-se um **ritual performativo** — similar a um chatbo
 - [[Teaching as Love]]
 - [[Artistic Creation and Empathy]]
 
-**Origem:** [[Cause and Effect First Notes]] (conversa original completa)
+**Origem:** Cause and Effect First Notes (conversa original completa)

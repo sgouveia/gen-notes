@@ -54,4 +54,4 @@ Pesquisadores estão a trabalhar em técnicas como:
 - [[Teaching as Love]]
 - [[Causa e Efeito]] (nota resumida em português)
 
-**Origem:** [[Cause and Effect First Notes]] (conversa original completa)
+**Origem:** Cause and Effect First Notes (conversa original completa)

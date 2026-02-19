@@ -14,24 +14,6 @@ Progressão completa de prompts para criação de petições iniciais:
 
 ---
 
-### Outros Exercícios Legais (em AI/)
-
-**Exercícios Específicos por Tipo:**
-- [[AI-Legal-Exercises-Contrato]] - Criação e análise de contratos
-- [[AI-Legal-Exercises-Convergence]] - Análise de convergência de documentos
-- [[AI-Legal-Exercises-CUSTOM GPT]] - Configuração de GPTs especializados
-- [[AI-Legal-Exercises-Claude Artefact]] - Uso de artefactos do Claude
-- [[AI-Legal-Exercises-Prompt]] - Prompts específicos para tarefas jurídicas
-- [[AI-Legal-Exercises-Conteudo]] - Geração de conteúdo jurídico
-
-**Materiais Completos:**
-- [[Prompt Engineering for Legal]] - Guia completo de PE para juristas
-- [[Prompt Legal]] - Prompts prontos a usar
-- [[modulo1_juridico_completo]] - Módulo 1 (fundamentos)
-- [[modulo2_prompt_engineering_geral]] - Módulo 2 (técnicas avançadas)
-
----
-
 ## Por Domínio de Aplicação
 
 ### Direito da Propriedade Intelectual
@@ -102,10 +84,6 @@ Progressão completa de prompts para criação de petições iniciais:
 - [ ] Exercícios de pareceres jurídicos
 - [ ] Exercícios de due diligence
 - [ ] Exercícios de compliance
-
-### Integração com Outros Domínios
-- [[MOC: AI Workflows by Domain]] (Journalism, Accounting, HR, Comms)
-- [[MOC: Learning Design]] (pedagogia dos exercícios)
 
 ---
 

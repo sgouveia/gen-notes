@@ -62,4 +62,4 @@ Esta é uma das capacidades humanas que a AI mais dificilmente poderá replicar,
 - [[Teaching as Love]]
 - [[Zarathustra on Memory and Reasoning]]
 
-**Origem:** [[Cause and Effect First Notes]] (conversa original completa)
+**Origem:** Cause and Effect First Notes (conversa original completa)

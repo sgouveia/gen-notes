@@ -91,6 +91,6 @@ O objetivo não é eliminar heurísticas (não podemos!) mas **desenhá-las cuid
 - [[AI and Empathy]]
 - [[Zaratustra]] (ficheiro original da citação)
 
-**Origem:** [[Cause and Effect First Notes]] (conversa original completa)
+**Origem:** Cause and Effect First Notes (conversa original completa)
 
 **Nota:** Zarathustra serve como metáfora perfeita para o desafio de manter autenticidade enquanto navegamos a eficiência das abstrações mentais.
