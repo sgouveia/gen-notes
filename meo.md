@@ -1,1 +1,0 @@
-Muitos trabalhadores de uma empresa estão a ignorar os ecopontos na copa do escritório. És o coordenador de sustentabilidade do escritório. Cria um plano para incentivar os trabalhadores a utilizarem corretamente os ecopontos. Escreve-o sob a forma de um discurso motivacional que eu possa fazer na próxima reunião de equipa.
